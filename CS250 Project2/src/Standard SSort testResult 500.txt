@@ -1,0 +1,30 @@
+1: Standard Selection Sort
+Comparisons: 125249
+[92mSort Passed[0m
+2: Standard Selection Sort
+Comparisons: 125249
+[92mSort Passed[0m
+3: Standard Selection Sort
+Comparisons: 125249
+[92mSort Passed[0m
+4: Standard Selection Sort
+Comparisons: 125249
+[92mSort Passed[0m
+5: Standard Selection Sort
+Comparisons: 125249
+[92mSort Passed[0m
+6: Standard Selection Sort
+Comparisons: 125249
+[92mSort Passed[0m
+7: Standard Selection Sort
+Comparisons: 125249
+[92mSort Passed[0m
+8: Standard Selection Sort
+Comparisons: 125249
+[92mSort Passed[0m
+9: Standard Selection Sort
+Comparisons: 125249
+[92mSort Passed[0m
+10: Standard Selection Sort
+Comparisons: 125249
+[92mSort Passed[0m

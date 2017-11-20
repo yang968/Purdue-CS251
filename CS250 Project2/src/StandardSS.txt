@@ -1,0 +1,9 @@
+#!/bin/bash
+# script for CS251 Project 2
+# chmod 755 StandardSS.txt
+for i in {1..10}
+do
+    java GenerateRandomNumber 100000 > output.txt
+    echo -n $i": " >> "Standard SSort testResult 100000".txt
+    java Test -a s < output.txt >> "Standard SSort testResult 100000".txt
+done

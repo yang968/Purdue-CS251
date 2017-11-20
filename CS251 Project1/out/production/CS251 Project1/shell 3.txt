@@ -1,0 +1,9 @@
+#!/bin/bash
+# My first script
+javac -Xlint *.java
+for i in {1..100}
+do
+    java GenerateRandomGrid 200 50 0.6 > output.txt
+    echo -n $i": " >> "testResult 200 50 0.6".txt
+    java Test < output.txt >> "testResult 200 50 0.6".txt
+done

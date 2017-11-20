@@ -1,0 +1,30 @@
+1: 8-Sort Merge Sort
+8-Sort Uses: 827
+[92mSort Passed[0m
+2: 8-Sort Merge Sort
+8-Sort Uses: 827
+[92mSort Passed[0m
+3: 8-Sort Merge Sort
+8-Sort Uses: 827
+[92mSort Passed[0m
+4: 8-Sort Merge Sort
+8-Sort Uses: 827
+[92mSort Passed[0m
+5: 8-Sort Merge Sort
+8-Sort Uses: 827
+[92mSort Passed[0m
+6: 8-Sort Merge Sort
+8-Sort Uses: 827
+[92mSort Passed[0m
+7: 8-Sort Merge Sort
+8-Sort Uses: 827
+[92mSort Passed[0m
+8: 8-Sort Merge Sort
+8-Sort Uses: 827
+[92mSort Passed[0m
+9: 8-Sort Merge Sort
+8-Sort Uses: 827
+[92mSort Passed[0m
+10: 8-Sort Merge Sort
+8-Sort Uses: 827
+[92mSort Passed[0m

@@ -1,0 +1,30 @@
+1: Standard Merge Sort
+Comparisons: 55188
+[92mSort Passed[0m
+2: Standard Merge Sort
+Comparisons: 55228
+[92mSort Passed[0m
+3: Standard Merge Sort
+Comparisons: 55241
+[92mSort Passed[0m
+4: Standard Merge Sort
+Comparisons: 55236
+[92mSort Passed[0m
+5: Standard Merge Sort
+Comparisons: 55222
+[92mSort Passed[0m
+6: Standard Merge Sort
+Comparisons: 55211
+[92mSort Passed[0m
+7: Standard Merge Sort
+Comparisons: 55163
+[92mSort Passed[0m
+8: Standard Merge Sort
+Comparisons: 55231
+[92mSort Passed[0m
+9: Standard Merge Sort
+Comparisons: 55213
+[92mSort Passed[0m
+10: Standard Merge Sort
+Comparisons: 55212
+[92mSort Passed[0m

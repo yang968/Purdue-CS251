@@ -1,0 +1,36 @@
+matrix
+5
+0: 1 2 3
+1: 0 2
+2: 0 1 3
+3: 0 2 4
+4: 3
+medianDegree
+giantComponent
+is5Clique 0 1 2 3 4
+has6DegreeRootN
+has6Degree6
+
+matrix
+5
+0: 1 2 3
+1: 0 2
+2: 0 1 3
+3: 0 2 4
+4: 3
+numEdgeTriangles 0 1
+numTriangles
+vertexClusterCoeff 0
+globalClusterCoeff
+
+list
+5
+0: 1 2 3
+1: 0 2
+2: 0 1 3
+3: 0 2 4
+4: 3
+numEdgeTriangles 0 1
+numTriangles
+vertexClusterCoeff 0
+globalClusterCoeff

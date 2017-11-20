@@ -1,0 +1,29 @@
+matrix
+9
+0: 1 2 3 4
+1: 0 5
+2: 0 8
+3: 0 7
+4: 0 6
+5: 1
+6: 4
+7: 3
+8: 2
+medianDegree
+giantComponent
+has6DegreeRootN
+has6Degree6
+
+list
+9
+0: 1 2 3 4
+1: 0 5
+2: 0 8
+3: 0 7
+4: 0 6
+5: 1
+6: 4
+7: 3
+8: 2
+numTriangles
+globalClusterCoeff

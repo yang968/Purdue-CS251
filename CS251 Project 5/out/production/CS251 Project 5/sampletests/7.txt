@@ -1,0 +1,27 @@
+matrix
+7
+0: 1 2 4 5
+1: 0 2 3 4 5
+2: 0 1 4 5 6
+3: 1
+4: 0 1 2 5
+5: 0 1 2 4
+6: 2
+medianDegree
+giantComponent
+is5Clique 0 1 2 4 5
+has6DegreeRootN
+has6Degree6
+
+matrix
+7
+0: 1 2 4 5
+1: 0 2 3 4 5
+2: 0 1 4 5 6
+3: 1
+4: 0 1 2 5
+5: 0 1 2 4
+6: 2
+numTriangles
+vertexClusterCoeff 0
+globalClusterCoeff
